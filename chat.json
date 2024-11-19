@@ -1,0 +1,4 @@
+[
+  { "sender": "User1", "message": "Hello!" },
+  { "sender": "User2", "message": "Hi there!" }
+]
